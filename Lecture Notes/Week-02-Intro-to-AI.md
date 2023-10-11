@@ -38,3 +38,4 @@ Choose one of the following books to write a presentation/research paper. You're
 | 7   | Data Feminism                                                                                                  | NaN   | NaN                                                                                                                             |
 | 8   | Invisible Women: Exposing Data Bias in a World Designed for Men                                                | 353   | [Link](https://www.pdfdrive.com/invisible-women-data-bias-in-a-world-designed-for-men-e199838521.html)                          |
 
+> :alarm_clock: **Deadline**: The assignment is due on 31/10/2023.
