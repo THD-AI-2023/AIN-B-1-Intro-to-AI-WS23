@@ -25,7 +25,7 @@
 
 ## First Assignment
 
-Choose one of the following books to write a presentation/research paper. You're allowed to add your own data.
+Develop a comprehensive presentation on the `Ethics of AI`, incorporating insights and references from one of the listed books below. Your presentation should last approximately 15 minutes, and be designed for a team of 3 to 6 members. Please register your team and select your book on the course page, under [groups_for_the_presentation_(ethics_in_AI)](https://ilearn.th-deg.de/mod/etherpadlite/view.php?id=608374) by the 31st of October.
 
 | No. | Title                                                                                                           | Pages | Link                                                                                                                            |
 |-----|-----------------------------------------------------------------------------------------------------------------|-------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -38,4 +38,4 @@ Choose one of the following books to write a presentation/research paper. You're
 | 7   | Data Feminism                                                                                                  | NaN   | NaN                                                                                                                             |
 | 8   | Invisible Women: Exposing Data Bias in a World Designed for Men                                                | 353   | [Link](https://www.pdfdrive.com/invisible-women-data-bias-in-a-world-designed-for-men-e199838521.html)                          |
 
-> :alarm_clock: **Deadline**: The assignment is due on 31/10/2023.
+> :alarm_clock: **Deadline**: All presentations should be submitted by the end of November.
