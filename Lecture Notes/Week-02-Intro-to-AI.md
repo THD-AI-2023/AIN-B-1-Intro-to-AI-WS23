@@ -35,7 +35,7 @@ Develop a comprehensive presentation on the `Ethics of AI`, incorporating insigh
 | 4   | Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor                                | 205   | [Link](https://www.pdfdrive.com/automating-inequality-how-high-tech-tools-profile-police-and-punish-the-poor-e195087341.html)   |
 | 5   | Artificial Unintelligence: How Computers Misunderstand the World                                               | 298   | [Link](https://drive.google.com/file/d/1xPltizkQWH1fRjvPFjWW2eqvNoPsCFmk/view)   |
 | 6   | Algorithms of Oppression: How Search Engines Reinforce Racism                                                  | 231   | [Link](https://www.pdfdrive.com/algorithms-of-oppression-how-search-engines-reinforce-racism-e200463663.html)                   |
-| 7   | Data Feminism                                                                                                  | NaN   | NaN                                                                                                                             |
+| 7   | Data Feminism                                                                                                  | 197   | [Link](https://mutabit.com/repos.fossil/datafem/uv/datafem.pdf) |
 | 8   | Invisible Women: Exposing Data Bias in a World Designed for Men                                                | 353   | [Link](https://www.pdfdrive.com/invisible-women-data-bias-in-a-world-designed-for-men-e199838521.html)                          |
 
 > :alarm_clock: **Deadline**: All presentations should be submitted by the end of November.
